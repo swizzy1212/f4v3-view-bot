@@ -1,5 +1,4 @@
 <h1> f4v3 View Bot </h1>
-<br>
 <br> This tool can be used as a YouTube view bot or a really slow DoS tool
 <br> You can set the url and speed manually
 <br>
