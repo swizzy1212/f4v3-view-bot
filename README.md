@@ -9,5 +9,5 @@
 <br>
 <br> Bitcoin (BTC): [156i5UqNkNFWynddBmGyyN5EyPyei6NqY4]
 <br>
-<br> PayPal: [joelvolkwein@googlemail.com] (Please Donate in PayPal more than 50ct)
+<br>
 
